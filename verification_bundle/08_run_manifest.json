@@ -1,0 +1,53 @@
+{
+  "run_id": "RUN-2026-10-06-001",
+  "plan_document": "Intel_CPU_PassMark_Verification_Master_Plan.md",
+  "plan_version": "1.0",
+  "input_file": "Intel_CPU_ranks.csv",
+  "input_sha256": "25b9830f0f03eebee9fdaa6a499138a26e078b31cca86ff15db67ed313d721da",
+  "input_rows": 195,
+  "input_columns": [
+    "CPU Model",
+    "Passmark (Overall)",
+    "Passmark (Single Thread)"
+  ],
+  "total_claims": 390,
+  "scale_profile": "Standard",
+  "cells": 43,
+  "snapshot_window_start_utc": null,
+  "snapshot_window_end_utc": "2026-10-06T19:50:43.147605Z",
+  "tolerances": {
+    "exact_band_pct": 0.0,
+    "drift_band_pct": 1.0,
+    "review_band_pct": 3.0,
+    "mismatch_threshold_pct": 3.0,
+    "intra_source_epsilon_pct": 0.5
+  },
+  "model_configs": {
+    "primary_extraction": "claude-sonnet-4-6",
+    "adjudication": "claude-sonnet-4-6",
+    "qa_audit": "claude-sonnet-4-6"
+  },
+  "pacing": {
+    "requests_per_second_sustained": 0.5,
+    "max_concurrent_per_domain": 2,
+    "backoff_base_s": 2,
+    "backoff_factor": 2,
+    "backoff_cap_s": 900
+  },
+  "phase_0_complete": true,
+  "phase_1_complete": true,
+  "phase_3_complete": true,
+  "phase_4_complete": true,
+  "phase_5_complete": true,
+  "phase_6_complete": true,
+  "phase_7_complete": true,
+  "phase_8_complete": false,
+  "final_disposition_summary": {
+    "V-EXACT": 286,
+    "V-DRIFT": 104,
+    "D-MISMATCH": 0,
+    "N-NOTLISTED": 0,
+    "U-ESCALATED": 0
+  },
+  "kpi_pass": true
+}

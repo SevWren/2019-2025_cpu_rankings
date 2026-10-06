@@ -1,0 +1,83 @@
+[2026-10-06T19:47:48.627999Z] Loading results for Phase 6...
+[2026-10-06T19:47:48.632000Z] Loaded 390 claims.
+[2026-10-06T19:47:48.632368Z] === STEP A: ADJUDICATION of R-REVIEW claims ===
+[2026-10-06T19:47:48.632415Z] R-REVIEW claims to adjudicate: 5
+[2026-10-06T19:47:48.632437Z] 
+Adjudicating WI-0117-ST: i7-12700T (passmark_single_thread) csv=3465, live=3563, delta_pct=2.8283%
+[2026-10-06T19:47:48.632440Z]   Path A=3563 Path B=3563
+[2026-10-06T19:47:48.632610Z]   Verdict: V-DRIFT (confidence=HIGH)
+[2026-10-06T19:47:48.632616Z]   Votes: {'V-DRIFT': 3}
+[2026-10-06T19:47:48.632625Z]     ADJ-01: V-DRIFT — Delta 2.83% for Single Thread Rating. ST scores are known to be volatile — small fluctuations (1-3%)
+[2026-10-06T19:47:48.632628Z]     ADJ-02: V-DRIFT — Delta 2.83% (CSV < live (score drifted up)). samples=358. Both paths confirm live=3563. Consistent w
+[2026-10-06T19:47:48.632632Z]     ADJ-03: V-DRIFT — Delta 2.83%. identity_confidence=1.00. PassMark scores drift as new benchmark submissions arrive. No
+[2026-10-06T19:47:48.633250Z] 
+Adjudicating WI-0118-ST: i7-13700K (passmark_single_thread) csv=4380, live=4325, delta_pct=1.2557%
+[2026-10-06T19:47:48.633256Z]   Path A=4325 Path B=4325
+[2026-10-06T19:47:48.633302Z]   Verdict: V-DRIFT (confidence=HIGH)
+[2026-10-06T19:47:48.633306Z]   Votes: {'V-DRIFT': 3}
+[2026-10-06T19:47:48.633309Z]     ADJ-01: V-DRIFT — Delta 1.26% for Single Thread Rating. ST scores are known to be volatile — small fluctuations (1-3%)
+[2026-10-06T19:47:48.633312Z]     ADJ-02: V-DRIFT — Delta 1.26% (CSV > live (score drifted down)). samples=8432. Both paths confirm live=4325. Consisten
+[2026-10-06T19:47:48.633314Z]     ADJ-03: V-DRIFT — Delta 1.26%. identity_confidence=1.00. PassMark scores drift as new benchmark submissions arrive. No
+[2026-10-06T19:47:48.633441Z] 
+Adjudicating WI-0119-ST: i7-13700KF (passmark_single_thread) csv=4375, live=4329, delta_pct=1.0514%
+[2026-10-06T19:47:48.633444Z]   Path A=4329 Path B=4329
+[2026-10-06T19:47:48.633473Z]   Verdict: V-DRIFT (confidence=HIGH)
+[2026-10-06T19:47:48.633476Z]   Votes: {'V-DRIFT': 3}
+[2026-10-06T19:47:48.633479Z]     ADJ-01: V-DRIFT — Delta 1.05% for Single Thread Rating. ST scores are known to be volatile — small fluctuations (1-3%)
+[2026-10-06T19:47:48.633481Z]     ADJ-02: V-DRIFT — Delta 1.05% (CSV > live (score drifted down)). samples=4660. Both paths confirm live=4329. Consisten
+[2026-10-06T19:47:48.633483Z]     ADJ-03: V-DRIFT — Delta 1.05%. identity_confidence=1.00. PassMark scores drift as new benchmark submissions arrive. No
+[2026-10-06T19:47:48.633573Z] 
+Adjudicating WI-0139-ST: i9-13900 (passmark_single_thread) csv=4350, live=4281, delta_pct=1.5862%
+[2026-10-06T19:47:48.633575Z]   Path A=4281 Path B=4281
+[2026-10-06T19:47:48.633599Z]   Verdict: V-DRIFT (confidence=HIGH)
+[2026-10-06T19:47:48.633602Z]   Votes: {'V-DRIFT': 3}
+[2026-10-06T19:47:48.633604Z]     ADJ-01: V-DRIFT — Delta 1.59% for Single Thread Rating. ST scores are known to be volatile — small fluctuations (1-3%)
+[2026-10-06T19:47:48.633607Z]     ADJ-02: V-DRIFT — Delta 1.59% (CSV > live (score drifted down)). samples=849. Both paths confirm live=4281. Consistent
+[2026-10-06T19:47:48.633609Z]     ADJ-03: V-DRIFT — Delta 1.59%. identity_confidence=1.00. PassMark scores drift as new benchmark submissions arrive. No
+[2026-10-06T19:47:48.633703Z] 
+Adjudicating WI-0141-ST: i9-13900T (passmark_single_thread) csv=4050, live=4168, delta_pct=2.9136%
+[2026-10-06T19:47:48.633707Z]   Path A=4168 Path B=4168
+[2026-10-06T19:47:48.633730Z]   Verdict: V-DRIFT (confidence=HIGH)
+[2026-10-06T19:47:48.633733Z]   Votes: {'V-DRIFT': 3}
+[2026-10-06T19:47:48.633735Z]     ADJ-01: V-DRIFT — Delta 2.91% for Single Thread Rating. ST scores are known to be volatile — small fluctuations (1-3%)
+[2026-10-06T19:47:48.633738Z]     ADJ-02: V-DRIFT — Delta 2.91% (CSV < live (score drifted up)). samples=172. Both paths confirm live=4168. Consistent w
+[2026-10-06T19:47:48.633740Z]     ADJ-03: V-DRIFT — Delta 2.91%. identity_confidence=1.00. PassMark scores drift as new benchmark submissions arrive. No
+[2026-10-06T19:47:48.633827Z] 
+Adjudication complete. 5 claims resolved.
+[2026-10-06T19:47:48.633830Z] 
+=== STEP B: INDEPENDENT QA AUDIT ===
+[2026-10-06T19:47:48.634209Z] QA audit scope:
+[2026-10-06T19:47:48.634213Z]   Non-V-EXACT (100%): 104
+[2026-10-06T19:47:48.634215Z]   Watchlist V-EXACT (100%): 41
+[2026-10-06T19:47:48.634217Z]   Stratified random sample (25%): 59
+[2026-10-06T19:47:48.634219Z]   Total in audit set: 204
+[2026-10-06T19:47:48.665888Z] 
+QA audit complete:
+[2026-10-06T19:47:48.665897Z]   Total audited:    204
+[2026-10-06T19:47:48.665928Z]   PASS:             204
+[2026-10-06T19:47:48.665937Z]   MINOR_DEFECT:     0
+[2026-10-06T19:47:48.665947Z]   MAJOR_DEFECT:     0
+[2026-10-06T19:47:48.665948Z]   CRITICAL_DEFECT:  0
+[2026-10-06T19:47:48.665950Z] QA gate: 0 critical defects. PASS.
+[2026-10-06T19:47:48.665952Z] 
+=== STEP C: RED TEAM ===
+[2026-10-06T19:47:48.666124Z] Red Team targets: 145 claims
+[2026-10-06T19:47:48.708219Z] 
+Red Team complete:
+[2026-10-06T19:47:48.708227Z]   Total attempts:   145
+[2026-10-06T19:47:48.708230Z]   Claims reopened:  0
+[2026-10-06T19:47:48.708232Z]   No claims falsified. All verdicts hold.
+[2026-10-06T19:47:48.708234Z] 
+=== FINAL DISPOSITION SUMMARY (post-QA/RT) ===
+[2026-10-06T19:47:48.708484Z]   V-DRIFT                  :  104
+[2026-10-06T19:47:48.708488Z]   V-EXACT                  :  286
+[2026-10-06T19:47:48.708490Z] 
+=== KPI Gate Check (§12.4) ===
+[2026-10-06T19:47:48.708723Z]   Claim coverage (terminal): 390/390 = 100.0% (req: 100%)
+[2026-10-06T19:47:48.708727Z]   ≥2 independent paths:      390/390 = 100.0% (req: ≥95%)
+[2026-10-06T19:47:48.708730Z]   T0-live evidence:          390/390 (req: 100%)
+[2026-10-06T19:47:48.708732Z]   QA critical defects:       0 (req: 0)
+[2026-10-06T19:47:48.708734Z]   Red Team reopens:          0 (req: 0)
+[2026-10-06T19:47:48.708738Z]   U-ESCALATED exceptions:    0 (target: 0)
+[2026-10-06T19:47:48.708754Z] 
+  KPIs PASS: True

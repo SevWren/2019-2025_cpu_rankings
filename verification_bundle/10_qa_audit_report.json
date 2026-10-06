@@ -1,0 +1,1850 @@
+{
+  "meta": {
+    "generated_utc": "2026-10-06T19:47:48.736698Z",
+    "total_audited": 204,
+    "critical_defects": 0,
+    "major_defects": 0,
+    "pass_count": 204,
+    "kpi_pass": true
+  },
+  "critical_defects": [],
+  "major_defects": [],
+  "all_results": [
+    {
+      "claim_id": "WI-0001-OVR",
+      "cpu_model": "i9-9900KS",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0001-ST",
+      "cpu_model": "i9-9900KS",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0002-OVR",
+      "cpu_model": "i9-9900KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0003-ST",
+      "cpu_model": "i9-9900",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0004-ST",
+      "cpu_model": "i9-9900T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0005-ST",
+      "cpu_model": "i9-10980XE",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0007-ST",
+      "cpu_model": "i9-10920X",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0009-OVR",
+      "cpu_model": "i7-9700KF",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0009-ST",
+      "cpu_model": "i7-9700KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0010-OVR",
+      "cpu_model": "i7-9700F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0010-ST",
+      "cpu_model": "i7-9700F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0011-OVR",
+      "cpu_model": "i7-9700",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0011-ST",
+      "cpu_model": "i7-9700",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0013-OVR",
+      "cpu_model": "i5-9600KF",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0013-ST",
+      "cpu_model": "i5-9600KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0015-OVR",
+      "cpu_model": "i5-9500",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0017-OVR",
+      "cpu_model": "i5-9500T",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0018-OVR",
+      "cpu_model": "i5-9400",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0019-OVR",
+      "cpu_model": "i5-9400F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0021-ST",
+      "cpu_model": "i3-9350KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0023-ST",
+      "cpu_model": "i3-9320",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0025-ST",
+      "cpu_model": "i3-9300T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0026-ST",
+      "cpu_model": "i3-9100",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0027-OVR",
+      "cpu_model": "i3-9100F",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0028-OVR",
+      "cpu_model": "i3-9100T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0028-ST",
+      "cpu_model": "i3-9100T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0029-ST",
+      "cpu_model": "Pentium Gold G5620",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0033-OVR",
+      "cpu_model": "Celeron G4950",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0034-ST",
+      "cpu_model": "Celeron G4930",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0036-ST",
+      "cpu_model": "i9-10900K",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0037-OVR",
+      "cpu_model": "i9-10900KF",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0038-ST",
+      "cpu_model": "i9-10900",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0039-OVR",
+      "cpu_model": "i9-10900F",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0039-ST",
+      "cpu_model": "i9-10900F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0042-OVR",
+      "cpu_model": "i7-10700K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0043-OVR",
+      "cpu_model": "i7-10700KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0044-OVR",
+      "cpu_model": "i7-10700",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0044-ST",
+      "cpu_model": "i7-10700",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0045-OVR",
+      "cpu_model": "i7-10700F",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0045-ST",
+      "cpu_model": "i7-10700F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0046-OVR",
+      "cpu_model": "i7-10700T",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0046-ST",
+      "cpu_model": "i7-10700T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0047-OVR",
+      "cpu_model": "i5-10600K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0048-OVR",
+      "cpu_model": "i5-10600KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0051-OVR",
+      "cpu_model": "i5-10500",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0051-ST",
+      "cpu_model": "i5-10500",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0053-OVR",
+      "cpu_model": "i5-10400",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0054-OVR",
+      "cpu_model": "i5-10400F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0055-OVR",
+      "cpu_model": "i5-10400T",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0055-ST",
+      "cpu_model": "i5-10400T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0056-ST",
+      "cpu_model": "i3-10320",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0057-OVR",
+      "cpu_model": "i3-10300",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0057-ST",
+      "cpu_model": "i3-10300",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0060-OVR",
+      "cpu_model": "i3-10100F",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0063-ST",
+      "cpu_model": "Pentium Gold G6500",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0065-ST",
+      "cpu_model": "Pentium Gold G6400",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0067-OVR",
+      "cpu_model": "Celeron G5920",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0069-OVR",
+      "cpu_model": "Celeron G5900T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0071-OVR",
+      "cpu_model": "i9-11900KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0072-OVR",
+      "cpu_model": "i9-11900",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0072-ST",
+      "cpu_model": "i9-11900",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0073-OVR",
+      "cpu_model": "i9-11900F",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0073-ST",
+      "cpu_model": "i9-11900F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0074-ST",
+      "cpu_model": "i9-11900T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0076-OVR",
+      "cpu_model": "i9-12900KF",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0076-ST",
+      "cpu_model": "i9-12900KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0077-OVR",
+      "cpu_model": "i7-11700K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0077-ST",
+      "cpu_model": "i7-11700K",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0078-OVR",
+      "cpu_model": "i7-11700KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0079-OVR",
+      "cpu_model": "i7-11700",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0079-ST",
+      "cpu_model": "i7-11700",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0080-OVR",
+      "cpu_model": "i7-11700F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0080-ST",
+      "cpu_model": "i7-11700F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0081-OVR",
+      "cpu_model": "i7-11700T",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0081-ST",
+      "cpu_model": "i7-11700T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0082-OVR",
+      "cpu_model": "i7-12700K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0082-ST",
+      "cpu_model": "i7-12700K",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0083-OVR",
+      "cpu_model": "i7-12700KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0084-ST",
+      "cpu_model": "i5-11600K",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0085-OVR",
+      "cpu_model": "i5-11600KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0085-ST",
+      "cpu_model": "i5-11600KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0086-ST",
+      "cpu_model": "i5-11600",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0087-OVR",
+      "cpu_model": "i5-11600T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0088-ST",
+      "cpu_model": "i5-11500",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0090-OVR",
+      "cpu_model": "i5-11400",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0093-OVR",
+      "cpu_model": "i5-12600K",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0093-ST",
+      "cpu_model": "i5-12600K",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0094-OVR",
+      "cpu_model": "i5-12600KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0094-ST",
+      "cpu_model": "i5-12600KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0095-ST",
+      "cpu_model": "i3-10325",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0097-OVR",
+      "cpu_model": "i3-10305T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0098-OVR",
+      "cpu_model": "i3-10105",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0098-ST",
+      "cpu_model": "i3-10105",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0099-OVR",
+      "cpu_model": "i3-10105F",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0099-ST",
+      "cpu_model": "i3-10105F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0101-ST",
+      "cpu_model": "Pentium Gold G6605",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0102-OVR",
+      "cpu_model": "Pentium Gold G6505",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0104-OVR",
+      "cpu_model": "Pentium Gold G6405",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0104-ST",
+      "cpu_model": "Pentium Gold G6405",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0107-ST",
+      "cpu_model": "Celeron G5905",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0109-OVR",
+      "cpu_model": "i9-12900KS",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0109-ST",
+      "cpu_model": "i9-12900KS",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0110-OVR",
+      "cpu_model": "i9-12900",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0110-ST",
+      "cpu_model": "i9-12900",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0111-OVR",
+      "cpu_model": "i9-12900F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0111-ST",
+      "cpu_model": "i9-12900F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0112-ST",
+      "cpu_model": "i9-12900T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0113-OVR",
+      "cpu_model": "i9-13900K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0114-OVR",
+      "cpu_model": "i9-13900KF",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0115-OVR",
+      "cpu_model": "i7-12700",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0116-OVR",
+      "cpu_model": "i7-12700F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0117-ST",
+      "cpu_model": "i7-12700T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0118-OVR",
+      "cpu_model": "i7-13700K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0118-ST",
+      "cpu_model": "i7-13700K",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0119-ST",
+      "cpu_model": "i7-13700KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0120-OVR",
+      "cpu_model": "i5-12600",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0120-ST",
+      "cpu_model": "i5-12600",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0121-ST",
+      "cpu_model": "i5-12600T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0122-OVR",
+      "cpu_model": "i5-12500",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0122-ST",
+      "cpu_model": "i5-12500",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0125-OVR",
+      "cpu_model": "i5-12400F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0127-OVR",
+      "cpu_model": "i5-13600K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0128-OVR",
+      "cpu_model": "i5-13600KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0131-OVR",
+      "cpu_model": "i3-12100",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0131-ST",
+      "cpu_model": "i3-12100",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0132-OVR",
+      "cpu_model": "i3-12100F",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0132-ST",
+      "cpu_model": "i3-12100F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0133-OVR",
+      "cpu_model": "i3-12100T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0134-OVR",
+      "cpu_model": "Pentium Gold G7400",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0134-ST",
+      "cpu_model": "Pentium Gold G7400",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0135-OVR",
+      "cpu_model": "Pentium Gold G7400T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0135-ST",
+      "cpu_model": "Pentium Gold G7400T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0136-OVR",
+      "cpu_model": "Celeron G6900",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0136-ST",
+      "cpu_model": "Celeron G6900",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0139-OVR",
+      "cpu_model": "i9-13900",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0139-ST",
+      "cpu_model": "i9-13900",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0140-OVR",
+      "cpu_model": "i9-13900F",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0140-ST",
+      "cpu_model": "i9-13900F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0141-OVR",
+      "cpu_model": "i9-13900T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0141-ST",
+      "cpu_model": "i9-13900T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0142-OVR",
+      "cpu_model": "i9-14900K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0143-OVR",
+      "cpu_model": "i9-14900KF",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0144-OVR",
+      "cpu_model": "i7-13700",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0144-ST",
+      "cpu_model": "i7-13700",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0145-OVR",
+      "cpu_model": "i7-13700F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0145-ST",
+      "cpu_model": "i7-13700F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0147-OVR",
+      "cpu_model": "i7-14700K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0147-ST",
+      "cpu_model": "i7-14700K",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0148-OVR",
+      "cpu_model": "i7-14700KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0148-ST",
+      "cpu_model": "i7-14700KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0149-OVR",
+      "cpu_model": "i5-13600",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0150-ST",
+      "cpu_model": "i5-13600T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0152-OVR",
+      "cpu_model": "i5-13500T",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0152-ST",
+      "cpu_model": "i5-13500T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0153-OVR",
+      "cpu_model": "i5-13400",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0153-ST",
+      "cpu_model": "i5-13400",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0154-ST",
+      "cpu_model": "i5-13400F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0155-OVR",
+      "cpu_model": "i5-13400T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0156-OVR",
+      "cpu_model": "i5-14600K",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0157-OVR",
+      "cpu_model": "i5-14600KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0157-ST",
+      "cpu_model": "i5-14600KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0158-OVR",
+      "cpu_model": "i3-13100",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0159-OVR",
+      "cpu_model": "i3-13100F",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0161-OVR",
+      "cpu_model": "Core Ultra 9 285K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0162-OVR",
+      "cpu_model": "i9-14900KS",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0163-ST",
+      "cpu_model": "i9-14900",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0165-ST",
+      "cpu_model": "i9-14900T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0166-OVR",
+      "cpu_model": "Core Ultra 7 265K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0167-OVR",
+      "cpu_model": "Core Ultra 7 265KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0168-OVR",
+      "cpu_model": "i7-14700",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0168-ST",
+      "cpu_model": "i7-14700",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0169-OVR",
+      "cpu_model": "i7-14700F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0169-ST",
+      "cpu_model": "i7-14700F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0170-OVR",
+      "cpu_model": "i7-14700T",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0170-ST",
+      "cpu_model": "i7-14700T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0171-OVR",
+      "cpu_model": "Core Ultra 5 245K",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0171-ST",
+      "cpu_model": "Core Ultra 5 245K",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0172-OVR",
+      "cpu_model": "Core Ultra 5 245KF",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0172-ST",
+      "cpu_model": "Core Ultra 5 245KF",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0173-ST",
+      "cpu_model": "i5-14600",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0176-ST",
+      "cpu_model": "i5-14500T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0177-OVR",
+      "cpu_model": "i5-14400",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0177-ST",
+      "cpu_model": "i5-14400",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0178-OVR",
+      "cpu_model": "i5-14400F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0179-OVR",
+      "cpu_model": "i5-14400T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0179-ST",
+      "cpu_model": "i5-14400T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0181-OVR",
+      "cpu_model": "i3-14100F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0185-OVR",
+      "cpu_model": "Core Ultra 9 285",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0186-OVR",
+      "cpu_model": "Core Ultra 9 285T",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0187-OVR",
+      "cpu_model": "Core Ultra 7 265",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0187-ST",
+      "cpu_model": "Core Ultra 7 265",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0188-OVR",
+      "cpu_model": "Core Ultra 7 265F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0188-ST",
+      "cpu_model": "Core Ultra 7 265F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0189-OVR",
+      "cpu_model": "Core Ultra 7 265T",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0189-ST",
+      "cpu_model": "Core Ultra 7 265T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0190-OVR",
+      "cpu_model": "Core Ultra 5 245",
+      "metric": "passmark_overall",
+      "disposition": "V-EXACT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0192-OVR",
+      "cpu_model": "Core Ultra 5 235",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0192-ST",
+      "cpu_model": "Core Ultra 5 235",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0193-OVR",
+      "cpu_model": "Core Ultra 5 235T",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0193-ST",
+      "cpu_model": "Core Ultra 5 235T",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0194-OVR",
+      "cpu_model": "Core Ultra 5 225",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0194-ST",
+      "cpu_model": "Core Ultra 5 225",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0195-OVR",
+      "cpu_model": "Core Ultra 5 225F",
+      "metric": "passmark_overall",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    },
+    {
+      "claim_id": "WI-0195-ST",
+      "cpu_model": "Core Ultra 5 225F",
+      "metric": "passmark_single_thread",
+      "disposition": "V-DRIFT",
+      "qa_result": "PASS",
+      "defects": [],
+      "auditor": "C-11-QA"
+    }
+  ]
+}

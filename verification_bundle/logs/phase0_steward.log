@@ -1,0 +1,51 @@
+[2026-10-06T19:25:19.785640Z] P-01: Computing SHA-256 of input file.
+[2026-10-06T19:25:19.785712Z] P-01 PASS: SHA-256 = 25b9830f0f03eebee9fdaa6a499138a26e078b31cca86ff15db67ed313d721da
+[2026-10-06T19:25:19.785715Z] P-02: Parsing CSV with strict reader.
+[2026-10-06T19:25:19.786800Z] P-02 PASS: 195 rows, 3 columns, UTF-8, no blanks, no duplicates.
+[2026-10-06T19:25:19.786809Z] P-03/P-04: Building normalized claims table with WI IDs, strata, cells.
+[2026-10-06T19:25:19.789092Z] P-05: Running watchlist heuristics.
+[2026-10-06T19:25:19.789368Z] P-05: All 195 rows pass Single < Overall sanity check.
+[2026-10-06T19:25:19.789538Z] P-05: Overall value collisions: 1 groups
+[2026-10-06T19:25:19.789545Z]   Overall 14,244: ['i7-9700KF', 'i5-10600K']
+[2026-10-06T19:25:19.789547Z] P-05: Single-Thread value collisions: 6 groups
+[2026-10-06T19:25:19.789550Z]   ST 3,025: ['i9-9900KS', 'i9-10900F']
+[2026-10-06T19:25:19.789553Z]   ST 2,681: ['i3-9350KF', 'i3-10300']
+[2026-10-06T19:25:19.789555Z]   ST 2,984: ['i9-10900', 'Pentium Gold G7400']
+[2026-10-06T19:25:19.789557Z]   ST 3,917: ['i5-12600K', 'i7-14700T']
+[2026-10-06T19:25:19.789560Z]   ST 4,322: ['i9-12900KS', 'i9-14900']
+[2026-10-06T19:25:19.789562Z]   ST 4,016: ['i9-12900F', 'i9-14900T']
+[2026-10-06T19:25:19.793629Z] P-05: Near-identical overall scores (|diff|<=3): 4 pairs
+[2026-10-06T19:25:19.793636Z]   i3-9100F (6,704) vs Pentium Gold G7400 (6,707)
+[2026-10-06T19:25:19.793639Z]   i5-11600T (14,649) vs i3-13100F (14,651)
+[2026-10-06T19:25:19.793641Z]   i5-12600K (27,500) vs i5-12600KF (27,501)
+[2026-10-06T19:25:19.793643Z]   i9-13900K (58,065) vs i9-14900KF (58,064)
+[2026-10-06T19:25:19.793765Z] P-05: Sibling-suffix inversions: 5
+[2026-10-06T19:25:19.793775Z]   ('F_below_nonF', 'i7-9700F', 13160, 'i7-9700', 13172)
+[2026-10-06T19:25:19.793778Z]   ('F_below_nonF', 'i9-11900F', 22027, 'i9-11900', 22340)
+[2026-10-06T19:25:19.793781Z]   ('KF_above_K', 'i5-12600KF', 27501, 'i5-12600K', 27500)
+[2026-10-06T19:25:19.793783Z]   ('KF_above_K', 'i7-14700KF', 51925, 'i7-14700K', 51919)
+[2026-10-06T19:25:19.793786Z]   ('F_below_nonF', 'Core Ultra 7 265F', 49500, 'Core Ultra 7 265', 49684)
+[2026-10-06T19:25:19.793788Z] P-05: F variants >5% above non-F sibling: 5
+[2026-10-06T19:25:19.793796Z]   i3-10105F (8,860) vs i3-10105 (8,282) = +7.0%
+[2026-10-06T19:25:19.793800Z]   i9-12900F (35,795) vs i9-12900 (33,610) = +6.5%
+[2026-10-06T19:25:19.793804Z]   i3-12100F (13,954) vs i3-12100 (12,523) = +11.4%
+[2026-10-06T19:25:19.793806Z]   i9-13900F (48,071) vs i9-13900 (44,552) = +7.9%
+[2026-10-06T19:25:19.793808Z]   i7-13700F (37,739) vs i7-13700 (35,839) = +5.3%
+[2026-10-06T19:25:19.793811Z] Building final 390-row claims table...
+[2026-10-06T19:25:19.796837Z] Claims table built: 390 rows (expected 390).
+[2026-10-06T19:25:19.796870Z] Watchlist-flagged claims: 58
+[2026-10-06T19:25:19.796903Z] Stratum CPU counts:
+[2026-10-06T19:25:19.796911Z]   S1     24  Core i 9xxx series
+[2026-10-06T19:25:19.796914Z]   S1p     7  Pentium Gold/Celeron 9xxx-era
+[2026-10-06T19:25:19.796917Z]   S2b     4  Core i 10xxx X-series HEDT
+[2026-10-06T19:25:19.796919Z]   S2     32  Core i 10xxx non-X
+[2026-10-06T19:25:19.796921Z]   S2p     6  Pentium Gold/Celeron G6xxx/G59xx
+[2026-10-06T19:25:19.796923Z]   S3     19  Core i 11xxx series
+[2026-10-06T19:25:19.796925Z]   S3p     5  Pentium Gold G6x05, Celeron G5905/G5925
+[2026-10-06T19:25:19.796948Z]   S4     25  Core i 12xxx series
+[2026-10-06T19:25:19.796951Z]   S4p     4  Pentium Gold G7400(T), Celeron G6900(T)
+[2026-10-06T19:25:19.796953Z]   S5     23  Core i 13xxx series
+[2026-10-06T19:25:19.796955Z]   S6     23  Core i 14xxx series
+[2026-10-06T19:25:19.796957Z]   S7     18  Core Ultra / Intel Processor 300
+[2026-10-06T19:25:19.796960Z]   Total classified: 195 / 195
+[2026-10-06T19:25:19.814184Z] P-03/P-04/P-05 COMPLETE. Claims table written to /home/vercel-sandbox/verification_bundle/01_claims_table_raw.json

@@ -1,0 +1,7 @@
+[2026-10-06T19:50:20.088687Z] Loading data for report generation...
+[2026-10-06T19:50:20.093725Z] Report stats: 390 claims, 286 V-EXACT, 104 V-DRIFT, 0 mismatches, 0 N-NOTLISTED
+[2026-10-06T19:50:20.099535Z] Written: /home/vercel-sandbox/verification_bundle/01_results_by_claim.csv
+[2026-10-06T19:50:20.102311Z] Written: /home/vercel-sandbox/verification_bundle/02_results_by_cpu.csv
+[2026-10-06T19:50:20.103616Z] Written: /home/vercel-sandbox/verification_bundle/09_Intel_CPU_ranks.verified.csv
+[2026-10-06T19:50:20.105255Z] Written: /home/vercel-sandbox/verification_bundle/00_MASTER_REPORT.md
+[2026-10-06T19:50:20.108077Z] Written: /home/vercel-sandbox/verification_bundle/12_signoff.md

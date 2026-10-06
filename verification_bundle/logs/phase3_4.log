@@ -1,0 +1,74 @@
+[2026-10-06T19:33:28.954482Z] Loading claims table...
+[2026-10-06T19:33:28.959055Z] Loaded 390 claims for 195 CPUs.
+[2026-10-06T19:33:28.959257Z] Built CPU index for 195 CPUs.
+[2026-10-06T19:33:28.959260Z] === PHASE 1/RECON: Building lookup tables from saved bulk pages ===
+[2026-10-06T19:33:28.959262Z] Parsing cpu-list (Overall) page...
+[2026-10-06T19:33:28.964208Z] Overall list: 2846 rows extracted.
+[2026-10-06T19:33:28.968038Z] Parsing single-thread pages (ST)...
+[2026-10-06T19:33:28.973782Z]   ST page 1: 800 items
+[2026-10-06T19:33:28.979118Z]   ST page 2: 800 items
+[2026-10-06T19:33:28.982841Z]   ST page 3: 800 items
+[2026-10-06T19:33:28.988236Z]   ST page 4: 800 items
+[2026-10-06T19:33:28.988244Z] Total ST entries: 3200
+[2026-10-06T19:33:28.988248Z] Snapshot timestamp (bulk pages): 2026-10-06T19:33:28.988246Z
+[2026-10-06T19:33:28.988250Z] === PHASE 3: IDENTITY RESOLUTION ===
+[2026-10-06T19:33:29.550776Z]   ID-FAIL: 'Intel Processor 300' → NOT FOUND in PassMark list
+[2026-10-06T19:33:29.556561Z]   ID-FAIL: 'Intel Processor 300T' → NOT FOUND in PassMark list
+[2026-10-06T19:33:29.587960Z] Identity resolution complete:
+[2026-10-06T19:33:29.588007Z]   Resolved (conf>=0.98): 193
+[2026-10-06T19:33:29.588010Z]   Needs adjudication:    0
+[2026-10-06T19:33:29.588012Z]   Not found:             2
+[2026-10-06T19:33:29.588014Z]   NOT FOUND: 'Intel Processor 300'
+[2026-10-06T19:33:29.588016Z]   NOT FOUND: 'Intel Processor 300T'
+[2026-10-06T19:33:29.588018Z] === PHASE 4: PATH B COLLECTION (bulk data) ===
+[2026-10-06T19:33:29.588745Z] Path B coverage: Overall=193/195, ST=193/195
+[2026-10-06T19:33:29.588751Z] === PHASE 4: PATH A COLLECTION (individual detail pages) ===
+[2026-10-06T19:33:29.589078Z] Starting Path A fetches for 193 resolved CPUs...
+[2026-10-06T19:33:29.589114Z] Rate: 1 req/2.0s — estimated 6+ minutes
+[2026-10-06T19:34:21.506753Z]   [ 20] Progress: 20/195 fetched, 0 fails so far
+[2026-10-06T19:34:26.584199Z]   [ 22] PARSE_FAIL: i3-9350K — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Core%20i3-9350K%20%40%204.00GHz&id=3709', 'html_len': 108477, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:34:29.006759Z]   [ 23] PARSE_FAIL: i3-9320 — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Core%20i3-9320%20%40%203.70GHz&id=3539', 'html_len': 98852, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:34:31.632397Z]   [ 24] PARSE_FAIL: i3-9300 — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Core%20i3-9300%20%40%203.70GHz&id=3510', 'html_len': 108269, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:34:44.333976Z]   [ 29] PARSE_FAIL: Pentium Gold G5620 — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Pentium%20Gold%20G5620%20%40%204.00GHz&id=3626', 'html_len': 106859, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:34:46.972470Z]   [ 30] PARSE_FAIL: Pentium Gold G5600T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Pentium%20Gold%20G5600T%20%40%203.30GHz&id=4716', 'html_len': 106294, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:34:53.249658Z]   [ 32] PARSE_FAIL: Pentium Gold G5420T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Pentium%20Gold%20G5420T%20%40%203.20GHz&id=3589', 'html_len': 108015, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:34:55.788263Z]   [ 33] PARSE_FAIL: Celeron G4950 — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Celeron%20G4950%20%40%203.30GHz&id=4210', 'html_len': 105790, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:35:00.906357Z]   [ 35] PARSE_FAIL: Celeron G4930T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Celeron%20G4930T%20%40%203.00GHz&id=3788', 'html_len': 107785, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:35:13.635747Z]   [ 40] Progress: 40/195 fetched, 0 fails so far
+[2026-10-06T19:36:05.627669Z]   [ 60] Progress: 60/195 fetched, 0 fails so far
+[2026-10-06T19:36:10.791078Z]   [ 62] PARSE_FAIL: Pentium Gold G6600 — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Pentium%20Gold%20G6600%20%40%204.20GHz&id=4168', 'html_len': 107968, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:36:16.050602Z]   [ 64] PARSE_FAIL: Pentium Gold G6500T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Pentium%20Gold%20G6500T%20%40%203.50GHz&id=4182', 'html_len': 108133, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:36:21.231189Z]   [ 66] PARSE_FAIL: Pentium Gold G6400T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Pentium%20Gold%20G6400T%20%40%203.40GHz&id=4308', 'html_len': 108555, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:36:23.775641Z]   [ 67] PARSE_FAIL: Celeron G5920 — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Celeron%20G5920%20%40%203.50GHz&id=3887', 'html_len': 107883, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:36:28.877371Z]   [ 69] PARSE_FAIL: Celeron G5900T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Celeron%20G5900T%20%40%203.20GHz&id=4557', 'html_len': 107382, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:36:56.984283Z]   [ 80] Progress: 80/195 fetched, 0 fails so far
+[2026-10-06T19:37:14.909978Z]   [ 87] PARSE_FAIL: i5-11600T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Core%20i5-11600T%20%40%201.70GHz&id=4607', 'html_len': 111545, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:37:36.574648Z]   [ 95] PARSE_FAIL: i3-10325 — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Core%20i3-10325%20%40%203.90GHz&id=4685', 'html_len': 107656, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:37:41.699626Z]   [ 97] PARSE_FAIL: i3-10305T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Core%20i3-10305T%20%40%203.00GHz&id=4375', 'html_len': 108024, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:37:49.537586Z]   [100] Progress: 100/195 fetched, 0 fails so far
+[2026-10-06T19:37:54.758871Z]   [102] PARSE_FAIL: Pentium Gold G6505 — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Pentium%20Gold%20G6505%20%40%204.20GHz&id=4467', 'html_len': 108408, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:37:57.383987Z]   [103] PARSE_FAIL: Pentium Gold G6505T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Pentium%20Gold%20G6505T%20%40%203.60GHz&id=5120', 'html_len': 106083, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:38:02.667519Z]   [105] PARSE_FAIL: Pentium Gold G6405T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Pentium%20Gold%20G6405T%20%40%203.50GHz&id=4368', 'html_len': 108032, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:38:33.767872Z]   [117] i7-12700T: OVR=V-EXACT(csv=21140,live=21140,Δ=+0) ST=R-REVIEW(csv=3465,live=3563,Δ=+98)
+[2026-10-06T19:38:36.233448Z]   [118] i7-13700K: OVR=V-DRIFT(csv=45590,live=45592,Δ=+2) ST=R-REVIEW(csv=4380,live=4325,Δ=-55)
+[2026-10-06T19:38:38.825620Z]   [119] i7-13700KF: OVR=V-EXACT(csv=45525,live=45525,Δ=+0) ST=R-REVIEW(csv=4375,live=4329,Δ=-46)
+[2026-10-06T19:38:41.400684Z]   [120] Progress: 120/195 fetched, 0 fails so far
+[2026-10-06T19:39:25.301032Z]   [137] PARSE_FAIL: Celeron G6900T — {'status': 'PARSE_FAIL', 'url': 'https://www.cpubenchmark.net/cpu.php?cpu=Intel%20Celeron%20G6900T&id=4927', 'html_len': 111300, 'ovr_found': False, 'st_found': True}
+[2026-10-06T19:39:30.302859Z]   [139] i9-13900: OVR=V-EXACT(csv=44552,live=44552,Δ=+0) ST=R-REVIEW(csv=4350,live=4281,Δ=-69)
+[2026-10-06T19:39:32.828278Z]   [140] Progress: 140/195 fetched, 0 fails so far
+[2026-10-06T19:39:35.472596Z]   [141] i9-13900T: OVR=V-EXACT(csv=42839,live=42839,Δ=+0) ST=R-REVIEW(csv=4050,live=4168,Δ=+118)
+[2026-10-06T19:40:23.625727Z]   [160] Progress: 160/195 fetched, 0 fails so far
+[2026-10-06T19:41:15.333974Z]   [180] Progress: 180/195 fetched, 0 fails so far
+[2026-10-06T19:41:48.391101Z] 
+Path A complete: 193 fetches, 0 errors, 20 parse failures
+[2026-10-06T19:41:48.391108Z] === PHASE 4: COMPARISON + CLASSIFICATION ===
+[2026-10-06T19:41:48.395899Z] 
+Comparison complete: 390 claims classified
+[2026-10-06T19:41:48.396000Z] Disposition summary:
+[2026-10-06T19:41:48.396017Z]   N-NOTLISTED         :    4
+[2026-10-06T19:41:48.396022Z]   R-REVIEW            :    5
+[2026-10-06T19:41:48.396024Z]   V-DRIFT             :   99
+[2026-10-06T19:41:48.396026Z]   V-EXACT             :  282
+[2026-10-06T19:41:48.396028Z] 
+Discrepancy register: 9 items
+[2026-10-06T19:41:48.396030Z] Saving results...

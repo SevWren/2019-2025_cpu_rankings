@@ -1,0 +1,1562 @@
+{
+  "i9-9900KS": {
+    "csv_name": "i9-9900KS",
+    "status": "RESOLVED",
+    "cpu_id": "3593",
+    "passmark_name": "Intel Core i9-9900KS @ 4.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-9900KF": {
+    "csv_name": "i9-9900KF",
+    "status": "RESOLVED",
+    "cpu_id": "3435",
+    "passmark_name": "Intel Core i9-9900KF @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-9900": {
+    "csv_name": "i9-9900",
+    "status": "RESOLVED",
+    "cpu_id": "3487",
+    "passmark_name": "Intel Core i9-9900 @ 3.10GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-9900T": {
+    "csv_name": "i9-9900T",
+    "status": "RESOLVED",
+    "cpu_id": "3599",
+    "passmark_name": "Intel Core i9-9900T @ 2.10GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10980XE": {
+    "csv_name": "i9-10980XE",
+    "status": "RESOLVED",
+    "cpu_id": "3630",
+    "passmark_name": "Intel Core i9-10980XE @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10940X": {
+    "csv_name": "i9-10940X",
+    "status": "RESOLVED",
+    "cpu_id": "3639",
+    "passmark_name": "Intel Core i9-10940X @ 3.30GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10920X": {
+    "csv_name": "i9-10920X",
+    "status": "RESOLVED",
+    "cpu_id": "3632",
+    "passmark_name": "Intel Core i9-10920X @ 3.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10900X": {
+    "csv_name": "i9-10900X",
+    "status": "RESOLVED",
+    "cpu_id": "3633",
+    "passmark_name": "Intel Core i9-10900X @ 3.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-9700KF": {
+    "csv_name": "i7-9700KF",
+    "status": "RESOLVED",
+    "cpu_id": "3428",
+    "passmark_name": "Intel Core i7-9700KF @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-9700F": {
+    "csv_name": "i7-9700F",
+    "status": "RESOLVED",
+    "cpu_id": "3465",
+    "passmark_name": "Intel Core i7-9700F @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-9700": {
+    "csv_name": "i7-9700",
+    "status": "RESOLVED",
+    "cpu_id": "3477",
+    "passmark_name": "Intel Core i7-9700 @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-9700T": {
+    "csv_name": "i7-9700T",
+    "status": "RESOLVED",
+    "cpu_id": "3506",
+    "passmark_name": "Intel Core i7-9700T @ 2.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-9600KF": {
+    "csv_name": "i5-9600KF",
+    "status": "RESOLVED",
+    "cpu_id": "3443",
+    "passmark_name": "Intel Core i5-9600KF @ 3.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-9600T": {
+    "csv_name": "i5-9600T",
+    "status": "RESOLVED",
+    "cpu_id": "3602",
+    "passmark_name": "Intel Core i5-9600T @ 2.30GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-9500": {
+    "csv_name": "i5-9500",
+    "status": "RESOLVED",
+    "cpu_id": "3444",
+    "passmark_name": "Intel Core i5-9500 @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-9500F": {
+    "csv_name": "i5-9500F",
+    "status": "RESOLVED",
+    "cpu_id": "3511",
+    "passmark_name": "Intel Core i5-9500F @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-9500T": {
+    "csv_name": "i5-9500T",
+    "status": "RESOLVED",
+    "cpu_id": "3454",
+    "passmark_name": "Intel Core i5-9500T @ 2.20GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-9400": {
+    "csv_name": "i5-9400",
+    "status": "RESOLVED",
+    "cpu_id": "3414",
+    "passmark_name": "Intel Core i5-9400 @ 2.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-9400F": {
+    "csv_name": "i5-9400F",
+    "status": "RESOLVED",
+    "cpu_id": "3397",
+    "passmark_name": "Intel Core i5-9400F @ 2.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-9400T": {
+    "csv_name": "i5-9400T",
+    "status": "RESOLVED",
+    "cpu_id": "3513",
+    "passmark_name": "Intel Core i5-9400T @ 1.80GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-9350KF": {
+    "csv_name": "i3-9350KF",
+    "status": "RESOLVED",
+    "cpu_id": "3459",
+    "passmark_name": "Intel Core i3-9350KF @ 4.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-9350K": {
+    "csv_name": "i3-9350K",
+    "status": "RESOLVED",
+    "cpu_id": "3709",
+    "passmark_name": "Intel Core i3-9350K @ 4.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-9320": {
+    "csv_name": "i3-9320",
+    "status": "RESOLVED",
+    "cpu_id": "3539",
+    "passmark_name": "Intel Core i3-9320 @ 3.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-9300": {
+    "csv_name": "i3-9300",
+    "status": "RESOLVED",
+    "cpu_id": "3510",
+    "passmark_name": "Intel Core i3-9300 @ 3.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-9300T": {
+    "csv_name": "i3-9300T",
+    "status": "RESOLVED",
+    "cpu_id": "3509",
+    "passmark_name": "Intel Core i3-9300T @ 3.20GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-9100": {
+    "csv_name": "i3-9100",
+    "status": "RESOLVED",
+    "cpu_id": "3479",
+    "passmark_name": "Intel Core i3-9100 @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-9100F": {
+    "csv_name": "i3-9100F",
+    "status": "RESOLVED",
+    "cpu_id": "3461",
+    "passmark_name": "Intel Core i3-9100F @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-9100T": {
+    "csv_name": "i3-9100T",
+    "status": "RESOLVED",
+    "cpu_id": "3488",
+    "passmark_name": "Intel Core i3-9100T @ 3.10GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G5620": {
+    "csv_name": "Pentium Gold G5620",
+    "status": "RESOLVED",
+    "cpu_id": "3626",
+    "passmark_name": "Intel Pentium Gold G5620 @ 4.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G5600T": {
+    "csv_name": "Pentium Gold G5600T",
+    "status": "RESOLVED",
+    "cpu_id": "4716",
+    "passmark_name": "Intel Pentium Gold G5600T @ 3.30GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G5420": {
+    "csv_name": "Pentium Gold G5420",
+    "status": "RESOLVED",
+    "cpu_id": "3471",
+    "passmark_name": "Intel Pentium Gold G5420 @ 3.80GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G5420T": {
+    "csv_name": "Pentium Gold G5420T",
+    "status": "RESOLVED",
+    "cpu_id": "3589",
+    "passmark_name": "Intel Pentium Gold G5420T @ 3.20GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G4950": {
+    "csv_name": "Celeron G4950",
+    "status": "RESOLVED",
+    "cpu_id": "4210",
+    "passmark_name": "Intel Celeron G4950 @ 3.30GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G4930": {
+    "csv_name": "Celeron G4930",
+    "status": "RESOLVED",
+    "cpu_id": "3557",
+    "passmark_name": "Intel Celeron G4930 @ 3.20GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G4930T": {
+    "csv_name": "Celeron G4930T",
+    "status": "RESOLVED",
+    "cpu_id": "3788",
+    "passmark_name": "Intel Celeron G4930T @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10900K": {
+    "csv_name": "i9-10900K",
+    "status": "RESOLVED",
+    "cpu_id": "3730",
+    "passmark_name": "Intel Core i9-10900K @ 3.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10900KF": {
+    "csv_name": "i9-10900KF",
+    "status": "RESOLVED",
+    "cpu_id": "3754",
+    "passmark_name": "Intel Core i9-10900KF @ 3.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10900": {
+    "csv_name": "i9-10900",
+    "status": "RESOLVED",
+    "cpu_id": "3745",
+    "passmark_name": "Intel Core i9-10900 @ 2.80GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10900F": {
+    "csv_name": "i9-10900F",
+    "status": "RESOLVED",
+    "cpu_id": "3798",
+    "passmark_name": "Intel Core i9-10900F @ 2.80GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10900T": {
+    "csv_name": "i9-10900T",
+    "status": "RESOLVED",
+    "cpu_id": "3751",
+    "passmark_name": "Intel Core i9-10900T @ 1.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-10850K": {
+    "csv_name": "i9-10850K",
+    "status": "RESOLVED",
+    "cpu_id": "3824",
+    "passmark_name": "Intel Core i9-10850K @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-10700K": {
+    "csv_name": "i7-10700K",
+    "status": "RESOLVED",
+    "cpu_id": "3733",
+    "passmark_name": "Intel Core i7-10700K @ 3.80GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-10700KF": {
+    "csv_name": "i7-10700KF",
+    "status": "RESOLVED",
+    "cpu_id": "3757",
+    "passmark_name": "Intel Core i7-10700KF @ 3.80GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-10700": {
+    "csv_name": "i7-10700",
+    "status": "RESOLVED",
+    "cpu_id": "3747",
+    "passmark_name": "Intel Core i7-10700 @ 2.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-10700F": {
+    "csv_name": "i7-10700F",
+    "status": "RESOLVED",
+    "cpu_id": "3806",
+    "passmark_name": "Intel Core i7-10700F @ 2.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-10700T": {
+    "csv_name": "i7-10700T",
+    "status": "RESOLVED",
+    "cpu_id": "3792",
+    "passmark_name": "Intel Core i7-10700T @ 2.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-10600K": {
+    "csv_name": "i5-10600K",
+    "status": "RESOLVED",
+    "cpu_id": "3735",
+    "passmark_name": "Intel Core i5-10600K @ 4.10GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-10600KF": {
+    "csv_name": "i5-10600KF",
+    "status": "RESOLVED",
+    "cpu_id": "3810",
+    "passmark_name": "Intel Core i5-10600KF @ 4.10GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-10600": {
+    "csv_name": "i5-10600",
+    "status": "RESOLVED",
+    "cpu_id": "3750",
+    "passmark_name": "Intel Core i5-10600 @ 3.30GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-10600T": {
+    "csv_name": "i5-10600T",
+    "status": "RESOLVED",
+    "cpu_id": "3834",
+    "passmark_name": "Intel Core i5-10600T @ 2.40GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-10500": {
+    "csv_name": "i5-10500",
+    "status": "RESOLVED",
+    "cpu_id": "3749",
+    "passmark_name": "Intel Core i5-10500 @ 3.10GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-10500T": {
+    "csv_name": "i5-10500T",
+    "status": "RESOLVED",
+    "cpu_id": "3768",
+    "passmark_name": "Intel Core i5-10500T @ 2.30GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-10400": {
+    "csv_name": "i5-10400",
+    "status": "RESOLVED",
+    "cpu_id": "3737",
+    "passmark_name": "Intel Core i5-10400 @ 2.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-10400F": {
+    "csv_name": "i5-10400F",
+    "status": "RESOLVED",
+    "cpu_id": "3767",
+    "passmark_name": "Intel Core i5-10400F @ 2.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-10400T": {
+    "csv_name": "i5-10400T",
+    "status": "RESOLVED",
+    "cpu_id": "3826",
+    "passmark_name": "Intel Core i5-10400T @ 2.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10320": {
+    "csv_name": "i3-10320",
+    "status": "RESOLVED",
+    "cpu_id": "3890",
+    "passmark_name": "Intel Core i3-10320 @ 3.80GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10300": {
+    "csv_name": "i3-10300",
+    "status": "RESOLVED",
+    "cpu_id": "3765",
+    "passmark_name": "Intel Core i3-10300 @ 3.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10300T": {
+    "csv_name": "i3-10300T",
+    "status": "RESOLVED",
+    "cpu_id": "3838",
+    "passmark_name": "Intel Core i3-10300T @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10100": {
+    "csv_name": "i3-10100",
+    "status": "RESOLVED",
+    "cpu_id": "3717",
+    "passmark_name": "Intel Core i3-10100 @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10100F": {
+    "csv_name": "i3-10100F",
+    "status": "RESOLVED",
+    "cpu_id": "3863",
+    "passmark_name": "Intel Core i3-10100F @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10100T": {
+    "csv_name": "i3-10100T",
+    "status": "RESOLVED",
+    "cpu_id": "3796",
+    "passmark_name": "Intel Core i3-10100T @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6600": {
+    "csv_name": "Pentium Gold G6600",
+    "status": "RESOLVED",
+    "cpu_id": "4168",
+    "passmark_name": "Intel Pentium Gold G6600 @ 4.20GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6500": {
+    "csv_name": "Pentium Gold G6500",
+    "status": "RESOLVED",
+    "cpu_id": "3857",
+    "passmark_name": "Intel Pentium Gold G6500 @ 4.10GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6500T": {
+    "csv_name": "Pentium Gold G6500T",
+    "status": "RESOLVED",
+    "cpu_id": "4182",
+    "passmark_name": "Intel Pentium Gold G6500T @ 3.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6400": {
+    "csv_name": "Pentium Gold G6400",
+    "status": "RESOLVED",
+    "cpu_id": "3805",
+    "passmark_name": "Intel Pentium Gold G6400 @ 4.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6400T": {
+    "csv_name": "Pentium Gold G6400T",
+    "status": "RESOLVED",
+    "cpu_id": "4308",
+    "passmark_name": "Intel Pentium Gold G6400T @ 3.40GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G5920": {
+    "csv_name": "Celeron G5920",
+    "status": "RESOLVED",
+    "cpu_id": "3887",
+    "passmark_name": "Intel Celeron G5920 @ 3.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G5900": {
+    "csv_name": "Celeron G5900",
+    "status": "RESOLVED",
+    "cpu_id": "3761",
+    "passmark_name": "Intel Celeron G5900 @ 3.40GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G5900T": {
+    "csv_name": "Celeron G5900T",
+    "status": "RESOLVED",
+    "cpu_id": "4557",
+    "passmark_name": "Intel Celeron G5900T @ 3.20GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-11900K": {
+    "csv_name": "i9-11900K",
+    "status": "RESOLVED",
+    "cpu_id": "3904",
+    "passmark_name": "Intel Core i9-11900K @ 3.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-11900KF": {
+    "csv_name": "i9-11900KF",
+    "status": "RESOLVED",
+    "cpu_id": "4240",
+    "passmark_name": "Intel Core i9-11900KF @ 3.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-11900": {
+    "csv_name": "i9-11900",
+    "status": "RESOLVED",
+    "cpu_id": "4245",
+    "passmark_name": "Intel Core i9-11900 @ 2.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-11900F": {
+    "csv_name": "i9-11900F",
+    "status": "RESOLVED",
+    "cpu_id": "4267",
+    "passmark_name": "Intel Core i9-11900F @ 2.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-11900T": {
+    "csv_name": "i9-11900T",
+    "status": "RESOLVED",
+    "cpu_id": "4360",
+    "passmark_name": "Intel Core i9-11900T @ 1.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-12900K": {
+    "csv_name": "i9-12900K",
+    "status": "RESOLVED",
+    "cpu_id": "4597",
+    "passmark_name": "Intel Core i9-12900K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-12900KF": {
+    "csv_name": "i9-12900KF",
+    "status": "RESOLVED",
+    "cpu_id": "4611",
+    "passmark_name": "Intel Core i9-12900KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-11700K": {
+    "csv_name": "i7-11700K",
+    "status": "RESOLVED",
+    "cpu_id": "3896",
+    "passmark_name": "Intel Core i7-11700K @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-11700KF": {
+    "csv_name": "i7-11700KF",
+    "status": "RESOLVED",
+    "cpu_id": "4234",
+    "passmark_name": "Intel Core i7-11700KF @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-11700": {
+    "csv_name": "i7-11700",
+    "status": "RESOLVED",
+    "cpu_id": "3947",
+    "passmark_name": "Intel Core i7-11700 @ 2.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-11700F": {
+    "csv_name": "i7-11700F",
+    "status": "RESOLVED",
+    "cpu_id": "4264",
+    "passmark_name": "Intel Core i7-11700F @ 2.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-11700T": {
+    "csv_name": "i7-11700T",
+    "status": "RESOLVED",
+    "cpu_id": "4558",
+    "passmark_name": "Intel Core i7-11700T @ 1.40GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-12700K": {
+    "csv_name": "i7-12700K",
+    "status": "RESOLVED",
+    "cpu_id": "4609",
+    "passmark_name": "Intel Core i7-12700K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-12700KF": {
+    "csv_name": "i7-12700KF",
+    "status": "RESOLVED",
+    "cpu_id": "4608",
+    "passmark_name": "Intel Core i7-12700KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-11600K": {
+    "csv_name": "i5-11600K",
+    "status": "RESOLVED",
+    "cpu_id": "4236",
+    "passmark_name": "Intel Core i5-11600K @ 3.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-11600KF": {
+    "csv_name": "i5-11600KF",
+    "status": "RESOLVED",
+    "cpu_id": "4261",
+    "passmark_name": "Intel Core i5-11600KF @ 3.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-11600": {
+    "csv_name": "i5-11600",
+    "status": "RESOLVED",
+    "cpu_id": "4306",
+    "passmark_name": "Intel Core i5-11600 @ 2.80GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-11600T": {
+    "csv_name": "i5-11600T",
+    "status": "RESOLVED",
+    "cpu_id": "4607",
+    "passmark_name": "Intel Core i5-11600T @ 1.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-11500": {
+    "csv_name": "i5-11500",
+    "status": "RESOLVED",
+    "cpu_id": "4238",
+    "passmark_name": "Intel Core i5-11500 @ 2.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-11500T": {
+    "csv_name": "i5-11500T",
+    "status": "RESOLVED",
+    "cpu_id": "4526",
+    "passmark_name": "Intel Core i5-11500T @ 1.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-11400": {
+    "csv_name": "i5-11400",
+    "status": "RESOLVED",
+    "cpu_id": "4233",
+    "passmark_name": "Intel Core i5-11400 @ 2.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-11400F": {
+    "csv_name": "i5-11400F",
+    "status": "RESOLVED",
+    "cpu_id": "4226",
+    "passmark_name": "Intel Core i5-11400F @ 2.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-11400T": {
+    "csv_name": "i5-11400T",
+    "status": "RESOLVED",
+    "cpu_id": "4406",
+    "passmark_name": "Intel Core i5-11400T @ 1.30GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-12600K": {
+    "csv_name": "i5-12600K",
+    "status": "RESOLVED",
+    "cpu_id": "4603",
+    "passmark_name": "Intel Core i5-12600K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-12600KF": {
+    "csv_name": "i5-12600KF",
+    "status": "RESOLVED",
+    "cpu_id": "4625",
+    "passmark_name": "Intel Core i5-12600KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10325": {
+    "csv_name": "i3-10325",
+    "status": "RESOLVED",
+    "cpu_id": "4685",
+    "passmark_name": "Intel Core i3-10325 @ 3.90GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10305": {
+    "csv_name": "i3-10305",
+    "status": "RESOLVED",
+    "cpu_id": "4369",
+    "passmark_name": "Intel Core i3-10305 @ 3.80GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10305T": {
+    "csv_name": "i3-10305T",
+    "status": "RESOLVED",
+    "cpu_id": "4375",
+    "passmark_name": "Intel Core i3-10305T @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10105": {
+    "csv_name": "i3-10105",
+    "status": "RESOLVED",
+    "cpu_id": "4259",
+    "passmark_name": "Intel Core i3-10105 @ 3.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10105F": {
+    "csv_name": "i3-10105F",
+    "status": "RESOLVED",
+    "cpu_id": "4175",
+    "passmark_name": "Intel Core i3-10105F @ 3.70GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-10105T": {
+    "csv_name": "i3-10105T",
+    "status": "RESOLVED",
+    "cpu_id": "4401",
+    "passmark_name": "Intel Core i3-10105T @ 3.00GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6605": {
+    "csv_name": "Pentium Gold G6605",
+    "status": "RESOLVED",
+    "cpu_id": "4461",
+    "passmark_name": "Intel Pentium Gold G6605 @ 4.30GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6505": {
+    "csv_name": "Pentium Gold G6505",
+    "status": "RESOLVED",
+    "cpu_id": "4467",
+    "passmark_name": "Intel Pentium Gold G6505 @ 4.20GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6505T": {
+    "csv_name": "Pentium Gold G6505T",
+    "status": "RESOLVED",
+    "cpu_id": "5120",
+    "passmark_name": "Intel Pentium Gold G6505T @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6405": {
+    "csv_name": "Pentium Gold G6405",
+    "status": "RESOLVED",
+    "cpu_id": "4367",
+    "passmark_name": "Intel Pentium Gold G6405 @ 4.10GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G6405T": {
+    "csv_name": "Pentium Gold G6405T",
+    "status": "RESOLVED",
+    "cpu_id": "4368",
+    "passmark_name": "Intel Pentium Gold G6405T @ 3.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G5925": {
+    "csv_name": "Celeron G5925",
+    "status": "RESOLVED",
+    "cpu_id": "4421",
+    "passmark_name": "Intel Celeron G5925 @ 3.60GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G5905": {
+    "csv_name": "Celeron G5905",
+    "status": "RESOLVED",
+    "cpu_id": "3848",
+    "passmark_name": "Intel Celeron G5905 @ 3.50GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G5905T": {
+    "csv_name": "Celeron G5905T",
+    "status": "RESOLVED",
+    "cpu_id": "4335",
+    "passmark_name": "Intel Celeron G5905T @ 3.30GHz",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-12900KS": {
+    "csv_name": "i9-12900KS",
+    "status": "RESOLVED",
+    "cpu_id": "4813",
+    "passmark_name": "Intel Core i9-12900KS",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-12900": {
+    "csv_name": "i9-12900",
+    "status": "RESOLVED",
+    "cpu_id": "4729",
+    "passmark_name": "Intel Core i9-12900",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-12900F": {
+    "csv_name": "i9-12900F",
+    "status": "RESOLVED",
+    "cpu_id": "4694",
+    "passmark_name": "Intel Core i9-12900F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-12900T": {
+    "csv_name": "i9-12900T",
+    "status": "RESOLVED",
+    "cpu_id": "4710",
+    "passmark_name": "Intel Core i9-12900T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-13900K": {
+    "csv_name": "i9-13900K",
+    "status": "RESOLVED",
+    "cpu_id": "5022",
+    "passmark_name": "Intel Core i9-13900K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-13900KF": {
+    "csv_name": "i9-13900KF",
+    "status": "RESOLVED",
+    "cpu_id": "5055",
+    "passmark_name": "Intel Core i9-13900KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-12700": {
+    "csv_name": "i7-12700",
+    "status": "RESOLVED",
+    "cpu_id": "4669",
+    "passmark_name": "Intel Core i7-12700",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-12700F": {
+    "csv_name": "i7-12700F",
+    "status": "RESOLVED",
+    "cpu_id": "4692",
+    "passmark_name": "Intel Core i7-12700F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-12700T": {
+    "csv_name": "i7-12700T",
+    "status": "RESOLVED",
+    "cpu_id": "4830",
+    "passmark_name": "Intel Core i7-12700T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-13700K": {
+    "csv_name": "i7-13700K",
+    "status": "RESOLVED",
+    "cpu_id": "5060",
+    "passmark_name": "Intel Core i7-13700K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-13700KF": {
+    "csv_name": "i7-13700KF",
+    "status": "RESOLVED",
+    "cpu_id": "5061",
+    "passmark_name": "Intel Core i7-13700KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-12600": {
+    "csv_name": "i5-12600",
+    "status": "RESOLVED",
+    "cpu_id": "4688",
+    "passmark_name": "Intel Core i5-12600",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-12600T": {
+    "csv_name": "i5-12600T",
+    "status": "RESOLVED",
+    "cpu_id": "4784",
+    "passmark_name": "Intel Core i5-12600T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-12500": {
+    "csv_name": "i5-12500",
+    "status": "RESOLVED",
+    "cpu_id": "4675",
+    "passmark_name": "Intel Core i5-12500",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-12500T": {
+    "csv_name": "i5-12500T",
+    "status": "RESOLVED",
+    "cpu_id": "4804",
+    "passmark_name": "Intel Core i5-12500T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-12400": {
+    "csv_name": "i5-12400",
+    "status": "RESOLVED",
+    "cpu_id": "4677",
+    "passmark_name": "Intel Core i5-12400",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-12400F": {
+    "csv_name": "i5-12400F",
+    "status": "RESOLVED",
+    "cpu_id": "4681",
+    "passmark_name": "Intel Core i5-12400F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-12400T": {
+    "csv_name": "i5-12400T",
+    "status": "RESOLVED",
+    "cpu_id": "4980",
+    "passmark_name": "Intel Core i5-12400T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-13600K": {
+    "csv_name": "i5-13600K",
+    "status": "RESOLVED",
+    "cpu_id": "5008",
+    "passmark_name": "Intel Core i5-13600K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-13600KF": {
+    "csv_name": "i5-13600KF",
+    "status": "RESOLVED",
+    "cpu_id": "5059",
+    "passmark_name": "Intel Core i5-13600KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-12300": {
+    "csv_name": "i3-12300",
+    "status": "RESOLVED",
+    "cpu_id": "4746",
+    "passmark_name": "Intel Core i3-12300",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-12300T": {
+    "csv_name": "i3-12300T",
+    "status": "RESOLVED",
+    "cpu_id": "5109",
+    "passmark_name": "Intel Core i3-12300T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-12100": {
+    "csv_name": "i3-12100",
+    "status": "RESOLVED",
+    "cpu_id": "4687",
+    "passmark_name": "Intel Core i3-12100",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-12100F": {
+    "csv_name": "i3-12100F",
+    "status": "RESOLVED",
+    "cpu_id": "4670",
+    "passmark_name": "Intel Core i3-12100F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-12100T": {
+    "csv_name": "i3-12100T",
+    "status": "RESOLVED",
+    "cpu_id": "4802",
+    "passmark_name": "Intel Core i3-12100T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G7400": {
+    "csv_name": "Pentium Gold G7400",
+    "status": "RESOLVED",
+    "cpu_id": "4732",
+    "passmark_name": "Intel Pentium Gold G7400",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Pentium Gold G7400T": {
+    "csv_name": "Pentium Gold G7400T",
+    "status": "RESOLVED",
+    "cpu_id": "4882",
+    "passmark_name": "Intel Pentium Gold G7400T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G6900": {
+    "csv_name": "Celeron G6900",
+    "status": "RESOLVED",
+    "cpu_id": "4709",
+    "passmark_name": "Intel Celeron G6900",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Celeron G6900T": {
+    "csv_name": "Celeron G6900T",
+    "status": "RESOLVED",
+    "cpu_id": "4927",
+    "passmark_name": "Intel Celeron G6900T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-13900KS": {
+    "csv_name": "i9-13900KS",
+    "status": "RESOLVED",
+    "cpu_id": "5160",
+    "passmark_name": "Intel Core i9-13900KS",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-13900": {
+    "csv_name": "i9-13900",
+    "status": "RESOLVED",
+    "cpu_id": "5176",
+    "passmark_name": "Intel Core i9-13900",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-13900F": {
+    "csv_name": "i9-13900F",
+    "status": "RESOLVED",
+    "cpu_id": "5143",
+    "passmark_name": "Intel Core i9-13900F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-13900T": {
+    "csv_name": "i9-13900T",
+    "status": "RESOLVED",
+    "cpu_id": "5154",
+    "passmark_name": "Intel Core i9-13900T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-14900K": {
+    "csv_name": "i9-14900K",
+    "status": "RESOLVED",
+    "cpu_id": "5717",
+    "passmark_name": "Intel Core i9-14900K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-14900KF": {
+    "csv_name": "i9-14900KF",
+    "status": "RESOLVED",
+    "cpu_id": "5684",
+    "passmark_name": "Intel Core i9-14900KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-13700": {
+    "csv_name": "i7-13700",
+    "status": "RESOLVED",
+    "cpu_id": "4992",
+    "passmark_name": "Intel Core i7-13700",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-13700F": {
+    "csv_name": "i7-13700F",
+    "status": "RESOLVED",
+    "cpu_id": "5163",
+    "passmark_name": "Intel Core i7-13700F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-13700T": {
+    "csv_name": "i7-13700T",
+    "status": "RESOLVED",
+    "cpu_id": "5223",
+    "passmark_name": "Intel Core i7-13700T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-14700K": {
+    "csv_name": "i7-14700K",
+    "status": "RESOLVED",
+    "cpu_id": "5719",
+    "passmark_name": "Intel Core i7-14700K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-14700KF": {
+    "csv_name": "i7-14700KF",
+    "status": "RESOLVED",
+    "cpu_id": "5723",
+    "passmark_name": "Intel Core i7-14700KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-13600": {
+    "csv_name": "i5-13600",
+    "status": "RESOLVED",
+    "cpu_id": "5159",
+    "passmark_name": "Intel Core i5-13600",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-13600T": {
+    "csv_name": "i5-13600T",
+    "status": "RESOLVED",
+    "cpu_id": "5175",
+    "passmark_name": "Intel Core i5-13600T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-13500": {
+    "csv_name": "i5-13500",
+    "status": "RESOLVED",
+    "cpu_id": "4993",
+    "passmark_name": "Intel Core i5-13500",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-13500T": {
+    "csv_name": "i5-13500T",
+    "status": "RESOLVED",
+    "cpu_id": "5239",
+    "passmark_name": "Intel Core i5-13500T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-13400": {
+    "csv_name": "i5-13400",
+    "status": "RESOLVED",
+    "cpu_id": "4994",
+    "passmark_name": "Intel Core i5-13400",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-13400F": {
+    "csv_name": "i5-13400F",
+    "status": "RESOLVED",
+    "cpu_id": "5166",
+    "passmark_name": "Intel Core i5-13400F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-13400T": {
+    "csv_name": "i5-13400T",
+    "status": "RESOLVED",
+    "cpu_id": "5328",
+    "passmark_name": "Intel Core i5-13400T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-14600K": {
+    "csv_name": "i5-14600K",
+    "status": "RESOLVED",
+    "cpu_id": "5720",
+    "passmark_name": "Intel Core i5-14600K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-14600KF": {
+    "csv_name": "i5-14600KF",
+    "status": "RESOLVED",
+    "cpu_id": "5722",
+    "passmark_name": "Intel Core i5-14600KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-13100": {
+    "csv_name": "i3-13100",
+    "status": "RESOLVED",
+    "cpu_id": "5170",
+    "passmark_name": "Intel Core i3-13100",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-13100F": {
+    "csv_name": "i3-13100F",
+    "status": "RESOLVED",
+    "cpu_id": "5156",
+    "passmark_name": "Intel Core i3-13100F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-13100T": {
+    "csv_name": "i3-13100T",
+    "status": "RESOLVED",
+    "cpu_id": "5295",
+    "passmark_name": "Intel Core i3-13100T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 9 285K": {
+    "csv_name": "Core Ultra 9 285K",
+    "status": "RESOLVED",
+    "cpu_id": "6296",
+    "passmark_name": "Intel Core Ultra 9 285K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-14900KS": {
+    "csv_name": "i9-14900KS",
+    "status": "RESOLVED",
+    "cpu_id": "5957",
+    "passmark_name": "Intel Core i9-14900KS",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-14900": {
+    "csv_name": "i9-14900",
+    "status": "RESOLVED",
+    "cpu_id": "5886",
+    "passmark_name": "Intel Core i9-14900",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-14900F": {
+    "csv_name": "i9-14900F",
+    "status": "RESOLVED",
+    "cpu_id": "5833",
+    "passmark_name": "Intel Core i9-14900F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i9-14900T": {
+    "csv_name": "i9-14900T",
+    "status": "RESOLVED",
+    "cpu_id": "5903",
+    "passmark_name": "Intel Core i9-14900T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 7 265K": {
+    "csv_name": "Core Ultra 7 265K",
+    "status": "RESOLVED",
+    "cpu_id": "6326",
+    "passmark_name": "Intel Core Ultra 7 265K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 7 265KF": {
+    "csv_name": "Core Ultra 7 265KF",
+    "status": "RESOLVED",
+    "cpu_id": "6338",
+    "passmark_name": "Intel Core Ultra 7 265KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-14700": {
+    "csv_name": "i7-14700",
+    "status": "RESOLVED",
+    "cpu_id": "5852",
+    "passmark_name": "Intel Core i7-14700",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-14700F": {
+    "csv_name": "i7-14700F",
+    "status": "RESOLVED",
+    "cpu_id": "5834",
+    "passmark_name": "Intel Core i7-14700F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i7-14700T": {
+    "csv_name": "i7-14700T",
+    "status": "RESOLVED",
+    "cpu_id": "6112",
+    "passmark_name": "Intel Core i7-14700T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 5 245K": {
+    "csv_name": "Core Ultra 5 245K",
+    "status": "RESOLVED",
+    "cpu_id": "6324",
+    "passmark_name": "Intel Core Ultra 5 245K",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 5 245KF": {
+    "csv_name": "Core Ultra 5 245KF",
+    "status": "RESOLVED",
+    "cpu_id": "6336",
+    "passmark_name": "Intel Core Ultra 5 245KF",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-14600": {
+    "csv_name": "i5-14600",
+    "status": "RESOLVED",
+    "cpu_id": "5865",
+    "passmark_name": "Intel Core i5-14600",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-14600T": {
+    "csv_name": "i5-14600T",
+    "status": "RESOLVED",
+    "cpu_id": "5994",
+    "passmark_name": "Intel Core i5-14600T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-14500": {
+    "csv_name": "i5-14500",
+    "status": "RESOLVED",
+    "cpu_id": "5835",
+    "passmark_name": "Intel Core i5-14500",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-14500T": {
+    "csv_name": "i5-14500T",
+    "status": "RESOLVED",
+    "cpu_id": "5889",
+    "passmark_name": "Intel Core i5-14500T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-14400": {
+    "csv_name": "i5-14400",
+    "status": "RESOLVED",
+    "cpu_id": "5868",
+    "passmark_name": "Intel Core i5-14400",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-14400F": {
+    "csv_name": "i5-14400F",
+    "status": "RESOLVED",
+    "cpu_id": "5837",
+    "passmark_name": "Intel Core i5-14400F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i5-14400T": {
+    "csv_name": "i5-14400T",
+    "status": "RESOLVED",
+    "cpu_id": "6039",
+    "passmark_name": "Intel Core i5-14400T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-14100": {
+    "csv_name": "i3-14100",
+    "status": "RESOLVED",
+    "cpu_id": "5831",
+    "passmark_name": "Intel Core i3-14100",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-14100F": {
+    "csv_name": "i3-14100F",
+    "status": "RESOLVED",
+    "cpu_id": "5853",
+    "passmark_name": "Intel Core i3-14100F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "i3-14100T": {
+    "csv_name": "i3-14100T",
+    "status": "RESOLVED",
+    "cpu_id": "6134",
+    "passmark_name": "Intel Core i3-14100T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Intel Processor 300": {
+    "csv_name": "Intel Processor 300",
+    "status": "RESOLVED",
+    "cpu_id": "5862",
+    "passmark_name": "Intel 300",
+    "match_confidence": 0.99,
+    "notes": "passmark_uses_short_name"
+  },
+  "Intel Processor 300T": {
+    "csv_name": "Intel Processor 300T",
+    "status": "RESOLVED",
+    "cpu_id": "6472",
+    "passmark_name": "Intel 300T",
+    "match_confidence": 0.99,
+    "notes": "passmark_uses_short_name"
+  },
+  "Core Ultra 9 285": {
+    "csv_name": "Core Ultra 9 285",
+    "status": "RESOLVED",
+    "cpu_id": "6443",
+    "passmark_name": "Intel Core Ultra 9 285",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 9 285T": {
+    "csv_name": "Core Ultra 9 285T",
+    "status": "RESOLVED",
+    "cpu_id": "6510",
+    "passmark_name": "Intel Core Ultra 9 285T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 7 265": {
+    "csv_name": "Core Ultra 7 265",
+    "status": "RESOLVED",
+    "cpu_id": "6423",
+    "passmark_name": "Intel Core Ultra 7 265",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 7 265F": {
+    "csv_name": "Core Ultra 7 265F",
+    "status": "RESOLVED",
+    "cpu_id": "6558",
+    "passmark_name": "Intel Core Ultra 7 265F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 7 265T": {
+    "csv_name": "Core Ultra 7 265T",
+    "status": "RESOLVED",
+    "cpu_id": "6687",
+    "passmark_name": "Intel Core Ultra 7 265T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 5 245": {
+    "csv_name": "Core Ultra 5 245",
+    "status": "RESOLVED",
+    "cpu_id": "6675",
+    "passmark_name": "Intel Core Ultra 5 245",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 5 245T": {
+    "csv_name": "Core Ultra 5 245T",
+    "status": "RESOLVED",
+    "cpu_id": "6637",
+    "passmark_name": "Intel Core Ultra 5 245T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 5 235": {
+    "csv_name": "Core Ultra 5 235",
+    "status": "RESOLVED",
+    "cpu_id": "6526",
+    "passmark_name": "Intel Core Ultra 5 235",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 5 235T": {
+    "csv_name": "Core Ultra 5 235T",
+    "status": "RESOLVED",
+    "cpu_id": "6650",
+    "passmark_name": "Intel Core Ultra 5 235T",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 5 225": {
+    "csv_name": "Core Ultra 5 225",
+    "status": "RESOLVED",
+    "cpu_id": "6469",
+    "passmark_name": "Intel Core Ultra 5 225",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  },
+  "Core Ultra 5 225F": {
+    "csv_name": "Core Ultra 5 225F",
+    "status": "RESOLVED",
+    "cpu_id": "6457",
+    "passmark_name": "Intel Core Ultra 5 225F",
+    "match_confidence": 1.0,
+    "notes": "exact_base_match"
+  }
+}
