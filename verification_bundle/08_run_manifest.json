@@ -41,7 +41,7 @@
   "phase_5_complete": true,
   "phase_6_complete": true,
   "phase_7_complete": true,
-  "phase_8_complete": false,
+  "phase_8_complete": true,
   "final_disposition_summary": {
     "V-EXACT": 286,
     "V-DRIFT": 104,
@@ -49,5 +49,8 @@
     "N-NOTLISTED": 0,
     "U-ESCALATED": 0
   },
-  "kpi_pass": true
+  "kpi_pass": true,
+  "completed_utc": "2026-10-06T19:52:35.311079Z",
+  "github_repo": "https://github.com/SevWren/2019-2025_cpu_rankings",
+  "google_drive_folder_id": "1zzeTvANocB1AU_XcvxKOFNta6tIVCYr_"
 }
